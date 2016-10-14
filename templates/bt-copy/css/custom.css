@@ -1,0 +1,109 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto+Condensed:400italic,700italic,400,700&subset=latin,cyrillic);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700&subset=latin,cyrillic);
+@font-face {
+	font-family: 'Conv_bastbi';
+	src: url('fonts/bastbi.eot');
+	src: local('☺'), url('fonts/bastbi.woff') format('woff'), url('fonts/bastbi.ttf') format('truetype'), url('fonts/bastbi.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Conv_bastb';
+	src: url('fonts/bastb.eot');
+	src: local('☺'), url('fonts/bastb.woff') format('woff'), url('fonts/bastb.ttf') format('truetype'), url('fonts/bastb.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Conv_basti';
+	src: url('fonts/basti.eot');
+	src: local('☺'), url('fonts/basti.woff') format('woff'), url('fonts/basti.ttf') format('truetype'), url('fonts/basti.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+body, html, p, span, a, h1, h2, h3{font-family: "Times New Roman", Times, serif!important;}
+html, p, span, a {
+font-size: 12pt!important;
+}
+h1, h2, h1 a, h2 a, .readmore a {
+/*font-family:'Conv_basti',Sans-Serif!important;*/ 
+#font-style:italic;
+}
+.item-page  p, /*.item-page  span*/{font-size:15px!important;}
+
+#je_accord147.je_acc  a {
+#font-family:'Conv_basti',Sans-Serif!important; 
+font-weight:normal!important; 
+font-size:16px; 
+font-style:normal!important;}
+
+#je_accord156.je_acc  a {
+#font-family:'Conv_basti',Sans-Serif!important; 
+font-weight:normal!important; 
+font-size:16px; 
+font-style:normal!important;}
+
+
+#je_accord147.je_acc > ul > li > a { 
+#border-left: 1px solid #f9f3d3; 
+#border-right: 1px solid #f9f3d3; 
+#border-top: 1px solid #f9f3d3; 
+#color: #FFFFFF; 
+#background: #914000; }
+
+#je_accord147.je_acc > ul > li:last-child > a,
+#je_accord147.je_acc > ul > li.last > a {border-bottom: 1px solid #f9f3d3; }
+#bt_nav_menu a {font-weight:normal!important}
+.bt_sub_top3 .bt_nogap_full  form{margin:0px!important;}
+.bt_sub_top3 .bt_module_content{margin:0px!important;}
+.bt_sub_top3 .search {margin:7px 0px 0 0!important;}
+.bt_sub_top3 .search .button {padding-top:6px; vertical-align:top;}
+.slicknav_menu  ul{background-color:#7d2c00;}
+.slicknav_menu  a{color:#fff!important;}
+.je_acc .holder{top:0px!important; display:none;}
+/*#je_accord147.je_acc ul ul li:hover > a,
+#je_accord147.je_acc ul ul li.open > a,
+#je_accord147.je_acc ul ul li.active > a { color:#914000!important;}
+*/
+#td, th {
+#	border: 1px solid #9a4400;
+#	padding: 5px;
+#}
+table {
+margin: 0px; border-collapse: collapse; 
+color: #11253f; 
+font-family: 'times new roman'; 
+font-size: 12px; 
+line-height: 21px;
+}
+hr {
+border-color: #914000;
+border-width: 1px 0 0;
+margin-bottom: 15px;
+margin-top: 15px;
+}
+.item-page {display:block!important; overflow:hidden!important;}
+.tab-content  table td{padding:20px; vertical-align:top;}
+
+.je_acc ul ul ul ul li a {padding-left:40px;}
+.je_acc ul ul ul ul ul li a {padding-left:50px !important;}
+.je_acc ul ul ul ul ul ul li a {padding-left:60px !important;}
+
+ul.topnav span	{
+    position: absolute;
+    /* left: 0; */
+    right: 10px;
+    top: 10px;
+    /* bottom: 0; */
+    z-index: 999;
+	}
+	
+ul.topnav ul span	{
+color: #914000;	
+}
+
+ul.topnav span:hover {
+cursor:pointer;	
+	
+}
+	
