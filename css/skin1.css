@@ -6222,7 +6222,7 @@ box-shadow: 0px 0px 27px -1px rgba(0,0,0,0.73);
     height: 0;
   }
 	}
-.bt_header_inner {background-image: url(../../images/menu.png);
+.bt_header_inner {
 	background-repeat: repeat-x; background-color:#faf2d3}
 
 .bt_header1 {
